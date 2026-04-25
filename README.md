@@ -100,6 +100,7 @@
 * [Cybersecurity Architecture](https://github.com/paulveillard/cybersecurity-architecture)
 * [Awesome: Privacy](https://github.com/pluja/awesome-privacy#readme) - List of free, open source and privacy respecting services and alternatives to privative services.
 * [Developers Guide to HIPAA Compliance](https://github.com/truevault/hipaa-compliance-developers-guide)
+* [SENTINEL](https://github.com/sentinel-safety/SENTINEL) - Open-source behavioral intelligence platform with GDPR Article 17 erasure, tamper-evident audit logs, DSA/UKOSA compliance infrastructure, and COPPA data handling for platforms serving minors.
 
 **[`^        back to top        ^`](#)**
 
